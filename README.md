@@ -14,7 +14,6 @@ This software processes 3D microscopy data segmented in Imaris and calculates sp
 - Excel and CSV export with metadata tracking
 
 **Current version**: 2.2.0 (Released November 2025)
-**Original R implementation**: Chahat Badhan
 **Python rewrite**: Philipp Kaintoch
 
 ---
