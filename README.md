@@ -328,13 +328,12 @@ quantitative organelle interaction analysis.
 https://github.com/your-repo/orgaplex-analyzer
 ```
 
-Original R implementation by Chahat Badhan.
 
 ---
 
 ## License
 
-[Specify license - MIT, GPL, etc.]
+Following
 
 ---
 
@@ -369,9 +368,7 @@ Original R implementation by Chahat Badhan.
 ## Contact
 
 For bugs, feature requests, or questions:
-- GitHub Issues: [link]
-- Email: [your email]
+- GitHub Issues: p.kaintoch@uni-muenster.de
+- Email: p.kaintoch@uni-muenster.de
 
 ---
-
-**Scientific data processing with confidence.**
