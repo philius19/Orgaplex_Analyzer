@@ -369,8 +369,8 @@ Original R implementation by Chahat Badhan.
 ## Contact
 
 For bugs, feature requests, or questions:
-- GitHub Issues: [link]
-- Email: [your email]
+- GitHub Issues: [p.kaintoch@uni-muenster.de]
+- Email: [p.kaintoch@uni-muenster.de]
 
 ---
 
