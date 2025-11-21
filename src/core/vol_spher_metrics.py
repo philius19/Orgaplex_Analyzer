@@ -4,9 +4,9 @@ Volume and Sphericity Metrics Analysis Module
 Analyzes volume and sphericity statistics for organelles from Imaris-generated
 CSV files.
 
-AUTHOR: Philipp Kaintoch
-DATE: 2025-11-18
-VERSION: 2.2.0
+Author: Philipp Kaintoch
+Date: 2025-11-18
+Version: 2.2.0
 """
 
 import pandas as pd

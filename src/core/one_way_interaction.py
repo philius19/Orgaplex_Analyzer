@@ -12,9 +12,9 @@ Output Format:
         ER-to-Ly     | 0.27      | 0.31      | 0.09      | ...
         M-to-ER      | 0.001     | 0.013     | 0.000     | ...
 
-AUTHOR: Philipp Kaintoch
-DATE: 2025-11-02
-VERSION: 2.0.1
+Author: Philipp Kaintoch
+Date: 2025-11-18
+Version: 2.2.0
 """
 
 import pandas as pd

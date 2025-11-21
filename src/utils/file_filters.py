@@ -3,9 +3,9 @@ File Filtering Utilities
 
 Provides centralized filtering for macOS metadata files and other exclusions.
 
-AUTHOR: Philipp Kaintoch
-DATE: 2025-11-18
-VERSION: 2.2.0
+Author: Philipp Kaintoch
+Date: 2025-11-18
+Version: 2.2.0
 """
 
 from pathlib import Path

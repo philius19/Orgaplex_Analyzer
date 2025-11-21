@@ -3,9 +3,9 @@ Logging Configuration for Orgaplex-Analyzer Software
 
 This module provides centralized logging configuration for all modules.
 
-AUTHOR: Philipp Kaintoch
-DATE: 2025-11-02
-VERSION: 2.1.0
+Author: Philipp Kaintoch
+Date: 2025-11-18
+Version: 2.2.0
 """
 
 import logging

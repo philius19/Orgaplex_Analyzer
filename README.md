@@ -53,7 +53,7 @@ This software processes 3D microscopy data segmented in Imaris and calculates sp
 ### For Programmers (pip Method)
 
 ```bash
-git clone https://github.com/your-repo/orgaplex-analyzer.git
+git clone https://github.com/philius19/orgaplex-analyzer.git
 cd orgaplex-analyzer
 pip install -r requirements.txt
 ```
@@ -189,7 +189,6 @@ When using `--format csv`, four files are generated in the output directory:
 
 - **NaN values**: No data file found for this interaction/cell combination
 - **Zero counts**: Distance file was empty or contained no valid measurements
-- **Negative distances**: Overlapping organelles (normal in Imaris)
 - **Missing entries**: Logged automatically with warnings during analysis
 
 ---
@@ -210,7 +209,7 @@ For source organelle S and target organelle T:
 where n = number of objects in source population.
 
 **Statistical notes**:
-- Distance units: Preserved from Imaris (typically micrometers or nanometers)
+- Distance units: Preserved from Imaris 
 - Outlier handling: No automated filtering (preserve raw measurements)
 - Missing data: Reported explicitly in Data_Completeness sheet
 
@@ -227,7 +226,7 @@ Validation failures halt analysis with detailed error messages.
 
 ### Performance Characteristics
 
-- Processing time: ~0.8 seconds per cell (tested on 2020 MacBook Pro)
+- Processing time: ~0.8 seconds per cell 
 - Memory usage: ~100 MB for 200 cells
 - Optimization: O(1) dictionary lookups for large datasets
 
@@ -324,7 +323,7 @@ If you use this software in publications, please cite:
 ```
 Kaintoch, P. (2025). Orgaplex-Analyzer v2.1: Python software for
 quantitative organelle interaction analysis.
-https://github.com/your-repo/orgaplex-analyzer
+https://github.com/philius19/orgaplex-analyzer
 ```
 
 

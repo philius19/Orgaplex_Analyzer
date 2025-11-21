@@ -167,6 +167,4 @@ For questions or issues:
 2. Check the code comments in the core modules (`src/core/`)
 3. Look at the example data in `Raw_data_for_Orgaplex_Test/`
 
----
 
-**Remember:** These standalone scripts are meant to be customized! Don't be afraid to experiment and modify them for your specific research needs.
