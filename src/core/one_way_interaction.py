@@ -141,7 +141,7 @@ class OneWayInteractionAnalyzer:
 
                     # Calculate statistics
                     mean_distance = distances.mean()
-                    count = len(distances)
+                    count = (distances <= 0).sum()  
 
                     # CRITICAL VALIDATION: Verify calculated mean is valid
                     if pd.isna(mean_distance):

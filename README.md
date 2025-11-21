@@ -209,7 +209,8 @@ For source organelle S and target organelle T:
 where n = number of objects in source population.
 
 **Statistical notes**:
-- Distance units: Preserved from Imaris 
+- Distance units: Preserved from Imaris
+- Interaction count: Only values <= 0 are counted (threshold for valid interaction)
 - Outlier handling: No automated filtering (preserve raw measurements)
 - Missing data: Reported explicitly in Data_Completeness sheet
 
