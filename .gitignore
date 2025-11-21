@@ -31,6 +31,10 @@ ENV/
 /Raw_data_for_Orgaplex_Test/
 /Old R_Scripts/
 output/
+.claude/
+.RData
+.Rhistory
+notes.txt
 
 # Logs
 *.log
